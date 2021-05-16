@@ -1,0 +1,12 @@
+C:\Users\ilker\Desktop\MyFiles\Apps\C# Projects\MaskelemeAsistanıProjesi\MaskelemeAsistanıProjesi\bin\Debug\MaskelemeAsistanıProjesi.exe.config
+C:\Users\ilker\Desktop\MyFiles\Apps\C# Projects\MaskelemeAsistanıProjesi\MaskelemeAsistanıProjesi\bin\Debug\MaskelemeAsistanıProjesi.exe
+C:\Users\ilker\Desktop\MyFiles\Apps\C# Projects\MaskelemeAsistanıProjesi\MaskelemeAsistanıProjesi\bin\Debug\MaskelemeAsistanıProjesi.pdb
+C:\Users\ilker\Desktop\MyFiles\Apps\C# Projects\MaskelemeAsistanıProjesi\MaskelemeAsistanıProjesi\obj\Debug\MaskelemeAsistanıProjesi.csprojAssemblyReference.cache
+C:\Users\ilker\Desktop\MyFiles\Apps\C# Projects\MaskelemeAsistanıProjesi\MaskelemeAsistanıProjesi\obj\Debug\MaskelemeAsistanıProjesi.Form1.resources
+C:\Users\ilker\Desktop\MyFiles\Apps\C# Projects\MaskelemeAsistanıProjesi\MaskelemeAsistanıProjesi\obj\Debug\MaskelemeAsistanıProjesi.Properties.Resources.resources
+C:\Users\ilker\Desktop\MyFiles\Apps\C# Projects\MaskelemeAsistanıProjesi\MaskelemeAsistanıProjesi\obj\Debug\MaskelemeAsistanıProjesi.csproj.GenerateResource.cache
+C:\Users\ilker\Desktop\MyFiles\Apps\C# Projects\MaskelemeAsistanıProjesi\MaskelemeAsistanıProjesi\obj\Debug\MaskelemeAsistanıProjesi.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\MyFiles\Apps\C# Projects\MaskelemeAsistanıProjesi\MaskelemeAsistanıProjesi\obj\Debug\MaskelemeAsistanıProjesi.exe
+C:\Users\ilker\Desktop\MyFiles\Apps\C# Projects\MaskelemeAsistanıProjesi\MaskelemeAsistanıProjesi\obj\Debug\MaskelemeAsistanıProjesi.pdb
+C:\Users\ilker\Desktop\MyFiles\Apps\C# Projects\MaskelemeAsistanıProjesi\MaskelemeAsistanıProjesi\obj\Debug\MaskelemeAsistanıProjesi.SinyalGürültüPaneli.resources
+C:\Users\ilker\Desktop\MyFiles\Apps\C# Projects\MaskelemeAsistanıProjesi\MaskelemeAsistanıProjesi\obj\Debug\MaskelemeAsistanıProjesi.KemikYoluMaskeleme.resources
